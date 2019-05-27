@@ -1,0 +1,2 @@
+#! /bin/sh
+exec '/home/ryan/work/project/ast/buildroot/buildroot-2019.05-rc2/output/host/bin/bison' -y "$@"
